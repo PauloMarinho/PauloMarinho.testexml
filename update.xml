@@ -2,9 +2,9 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="TestApp"> 
-        <version>3.0.0.0</version> 
+        <version>4.0.0.0</version> 
         <url>https://raw.githubusercontent.com/PauloMarinho/PauloMarinho.testexml/master/w8.exe</url> 
-        <fileName>TestApp1.exe</fileName> 
+        <fileName>w8.exe</fileName> 
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
         <description>Update: 06/19/2014:
         1. Added notification message when the current version is already the latest.</description> 
