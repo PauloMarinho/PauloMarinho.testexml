@@ -2,7 +2,7 @@
 <sharpUpdate> 
     <update appID="TestApp"> 
         <version>4.0.0.0</version> 
-        <url>https://raw.githubusercontent.com/PauloMarinho/PauloMarinho.testexml/master/w8.exe</url> 
+        <url>https://raw.githubusercontent.com/henryxrl/SharpUpdate/master/TestApp/bin/Debug/TestApp.exe</url> 
         <fileName>TestApp.exe</fileName> 
         <md5>2664dd96e8f0f53b3373984fedaf3f7e</md5>
         <description>Atualização: 06/19/2014:
