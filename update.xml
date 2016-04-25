@@ -3,8 +3,8 @@
     <update appID="TestApp"> 
         <version>4.0.0.0</version> 
         <url>https://raw.githubusercontent.com/PauloMarinho/PauloMarinho.testexml/master/w8.exe</url> 
-        <fileName>TestApp.exe</fileName> 
-        <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
+        <fileName>w8.exe</fileName> 
+        <md5>e25660880757b155a5107c96c6807e1f</md5>
         <description>Atualização: 06/19/2014:
         1. Adicinado modulo marketing (Ex).</description> 
         <launchArgs></launchArgs> 
