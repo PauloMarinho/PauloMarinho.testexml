@@ -3,7 +3,7 @@
     <update appID="TestApp"> 
         <version>4.0.0.0</version> 
         <url>https://raw.githubusercontent.com/PauloMarinho/PauloMarinho.testexml/master/atualizacao.zip</url> 
-        <fileName>w8.exe</fileName> 
+        <fileName>atualizacao.zip</fileName> 
         <md5>a60b1bb17a3f21491198c2af6ab01680</md5>
         <description>Atualização: 06/19/2014:
         1. Adicinado modulo marketing (Ex).</description> 
