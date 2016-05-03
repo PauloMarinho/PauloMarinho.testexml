@@ -1,7 +1,7 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="TestApp"> 
-        <version>5.09.0020</version> 
+        <version>5.09.0022</version> 
         <url>https://raw.githubusercontent.com/PauloMarinho/PauloMarinho.testexml/master/atualizacao.zip</url> 
         <fileName>atualizacao.zip</fileName> 
         <md5>a60b1bb17a3f21491198c2af6ab01680</md5>
