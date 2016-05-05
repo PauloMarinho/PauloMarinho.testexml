@@ -2,7 +2,7 @@
 <sharpUpdate> 
     <update appID="TestApp"> 
         <version>5.09.0022</version> 
-        <url>https://rawgithubcontent.com/PauloMarinho/PauloMarinho.testexml/master/atualizacao.zip</url> 
+        <url>https://github.com/PauloMarinho/PauloMarinho.testexml/raw/master/atualizacao.zip</url> 
         <fileName>atualizacao.zip</fileName> 
         <md5>a60b1bb17a3f21491198c2af6ab01680</md5>
         <description>Atualização: 06/19/2014:
